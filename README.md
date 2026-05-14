@@ -5,4 +5,6 @@ streamlit run app.py
 
 This is a Machine Learning project in which I have used a model known as Logistic Regression. Also I have used TF-TDF vectorization which is used in NLP extensively.
 
+One important change is that you need to manually download the link as due to github rules:- 
+
 This is a simple project so run and tell me about this!
