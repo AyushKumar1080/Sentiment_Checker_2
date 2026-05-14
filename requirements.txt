@@ -1,0 +1,21 @@
+# Core Libraries
+pandas
+numpy
+scikit-learn
+
+# NLP
+nltk
+
+# Model Saving
+joblib
+
+# FastAPI Backend
+fastapi
+uvicorn
+python-multipart
+
+# Streamlit Frontend
+streamlit
+
+# API Requests
+requests
