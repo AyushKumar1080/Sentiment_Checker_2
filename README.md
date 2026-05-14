@@ -1,5 +1,6 @@
 Hello, This is a project created by me. This is a sentiment analysis project which actually predicts sentiment of the sentence.
 To run this project, you need to clone this project to your PC and start VS Code and then you have to give two commands:-
+
 uvicorn backend:app --reload
 streamlit run app.py
 
