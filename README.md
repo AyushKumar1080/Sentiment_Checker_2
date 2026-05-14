@@ -7,7 +7,7 @@ streamlit run app.py
 
 This is a Machine Learning project in which I have used a model known as Logistic Regression. Also I have used TF-TDF vectorization which is used in NLP extensively.
 
-One important change is that you need to manually download the link as due to github rules:- 
+One important change is that you need to manually download the dataset link as due to github 100 MB per file limit rule.
 
 ## Dataset
 
@@ -18,5 +18,7 @@ Dataset: [Sentiment140 Dataset](https://www.kaggle.com/datasets/kazanova/sentime
 Download and place the CSV file inside:
 
 data/sentiment_tester.csv
+
+First make a data folder and then insert sentiment_tester.csv
 
 This is a simple project so run and tell me about this!
